@@ -27,8 +27,6 @@ The **To-Do List App** is a simple and efficient task management application bui
 ### ➕ Add Task Page
 <img src="assets/add-task.png" alt="Add Task Page" width="600"/>
 
-> 📌 Place screenshots in an `assets/` folder and adjust the filenames accordingly.
-
 ## 📦 Getting Started
 
 ### Prerequisites
